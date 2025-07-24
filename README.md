@@ -17,7 +17,7 @@ A blog website is an online platform where individuals or organizations can publ
 **Backend:**
 
 - Node.js
-- Appwrite (for image storage or authentication) *(Optional if used)*
+- Appwrite (for image storage or authentication) 
 
 **Other Tools:**
 
@@ -65,6 +65,6 @@ To run the project locally, you will need **Node.js** and **Git** installed on y
       cd server
         npm install
         touch .env
-        # Add your environment variables (PORT, MONGO_URI, etc.)
+        # Add your environment variables (PORT, MONGO_URI,Appwrite_Url etc.)
         npm run dev
 
