@@ -25,4 +25,4 @@ dist-ssr
 
 
 # environment 
-Blog/.env
+.env
